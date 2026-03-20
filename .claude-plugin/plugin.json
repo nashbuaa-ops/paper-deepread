@@ -1,6 +1,6 @@
 {
-  "name": "arxiv",
-  "description": "Investment research paper deep-read — focuses on experimental rigor, claim verification, and industry implications. Produces concise Markdown reports.",
+  "name": "paper-deepread",
+  "description": "投研论文精读——用类比拆解技术逻辑，从实验可信度、技术格局变化到投资映射，输出可直接支撑投资判断的 Markdown 报告。",
   "author": {
     "name": "qingtian"
   }

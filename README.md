@@ -19,13 +19,13 @@
 ## 安装
 
 ```bash
-claude install-plugin /path/to/arxiv
+claude install-plugin https://github.com/nashbuaa-ops/paper-deepread
 ```
 
-或者用 GitHub 地址：
+或者本地安装：
 
 ```bash
-claude install-plugin https://github.com/<your-username>/arxiv
+claude install-plugin /path/to/paper-deepread
 ```
 
 ## 使用
